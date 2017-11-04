@@ -5,3 +5,5 @@ Git has a mutable index called stage.
 Creating a new branch is quick and simple.
 
 No fast forword merge.
+
+Git is a free software ...
